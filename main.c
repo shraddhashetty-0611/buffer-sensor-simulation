@@ -8,7 +8,6 @@
 unsigned char buffer[MAX_BUFFER_SIZE];
 int buffer_size = 0;
 
-// Simulate sensor data generation
 void generate_sensor_data(int second) {
     int count = rand() % 6; 
     printf("[Second %d] Added %d bytes: ", second, count);
