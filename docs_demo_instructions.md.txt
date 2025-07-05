@@ -1,0 +1,14 @@
+# Demo Instructions
+
+Use the following steps to demonstrate the project during the interview or as part of the assignment:
+
+1. Open [Programiz Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
+2. Paste the content of `main.c` into the editor.
+3. Click the **Run** button.
+4. Observe the following:
+   - Each second shows how many random bytes were generated and their values.
+   - Every 10 seconds, the system checks if there are at least 50 bytes.
+     - If yes: it prints the latest 50 bytes and deletes them.
+     - If no: it displays a message skipping the print.
+
+For a quick preview, refer to `docs/output-sample.txt` (captured from a simulated run).

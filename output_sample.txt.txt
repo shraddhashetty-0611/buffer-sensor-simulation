@@ -1,0 +1,121 @@
+[Second 1] Added 2 bytes: 9B C2 
+[Second 2] Added 3 bytes: 97 05 B9 
+[Second 3] Added 3 bytes: EE C5 64 
+[Second 4] Added 4 bytes: 7A B2 2C CD 
+[Second 5] Added 0 bytes: (no data)
+[Second 6] Added 3 bytes: AB FF 79 
+[Second 7] Added 2 bytes: A2 BB 
+[Second 8] Added 2 bytes: 07 53 
+[Second 9] Added 2 bytes: E2 6F 
+[Second 10] Added 0 bytes: (no data)
+Buffer has only 21 bytes. Skipping print.
+[Second 11] Added 2 bytes: 0A 99 
+[Second 12] Added 3 bytes: A1 9E 84 
+[Second 13] Added 2 bytes: 8D 49 
+[Second 14] Added 3 bytes: 29 C4 0F 
+[Second 15] Added 3 bytes: 91 81 7C 
+[Second 16] Added 0 bytes: (no data)
+[Second 17] Added 4 bytes: F6 66 22 B1 
+[Second 18] Added 0 bytes: (no data)
+[Second 19] Added 2 bytes: 05 89 
+[Second 20] Added 2 bytes: 74 5F 
+Buffer has only 42 bytes. Skipping print.
+[Second 21] Added 2 bytes: 7F F8 
+[Second 22] Added 4 bytes: 20 97 64 19 
+[Second 23] Added 2 bytes: AE 76 
+[Second 24] Added 1 bytes: 72 
+[Second 25] Added 1 bytes: A2 
+[Second 26] Added 5 bytes: 06 1E 3F 86 14 
+[Second 27] Added 3 bytes: A9 C6 90 
+[Second 28] Added 1 bytes: CB 
+[Second 29] Added 5 bytes: DF 3F 78 F3 BE 
+[Second 30] Added 5 bytes: D3 DF 08 38 F8 
+>>> 10s reached: Printing latest 50 bytes:
+0A 99 A1 9E 84 8D 49 29 C4 0F 91 81 7C F6 66 22 B1 05 89 74 5F 7F F8 20 97 64 19 AE 76 72 A2 06 1E 3F 86 14 A9 C6 90 CB DF 3F 78 F3 BE D3 DF 08 38 F8 
+>>> Deleted 50 bytes from buffer.
+[Second 31] Added 2 bytes: E6 6E 
+[Second 32] Added 3 bytes: 58 F3 1B 
+[Second 33] Added 3 bytes: F9 39 9A 
+[Second 34] Added 1 bytes: 4E 
+[Second 35] Added 3 bytes: 28 14 CF 
+[Second 36] Added 5 bytes: DF E8 DA 1E 61 
+[Second 37] Added 2 bytes: DD D2 
+[Second 38] Added 1 bytes: BC 
+[Second 39] Added 4 bytes: D9 B4 06 BF 
+[Second 40] Added 2 bytes: 7F 17 
+Buffer has only 47 bytes. Skipping print.
+[Second 41] Added 5 bytes: 9A 72 0E D3 0C 
+[Second 42] Added 1 bytes: 21 
+[Second 43] Added 2 bytes: B6 35 
+[Second 44] Added 1 bytes: B1 
+[Second 45] Added 0 bytes: (no data)
+[Second 46] Added 0 bytes: (no data)
+[Second 47] Added 4 bytes: 33 65 5A 10 
+[Second 48] Added 1 bytes: FB 
+[Second 49] Added 0 bytes: (no data)
+[Second 50] Added 3 bytes: D5 80 17 
+>>> 10s reached: Printing latest 50 bytes:
+79 A2 BB 07 53 E2 6F E6 6E 58 F3 1B F9 39 9A 4E 28 14 CF DF E8 DA 1E 61 DD D2 BC D9 B4 06 BF 7F 17 9A 72 0E D3 0C 21 B6 35 B1 33 65 5A 10 FB D5 80 17 
+>>> Deleted 50 bytes from buffer.
+[Second 51] Added 0 bytes: (no data)
+[Second 52] Added 2 bytes: 96 AC 
+[Second 53] Added 5 bytes: 30 1E C5 03 2B 
+[Second 54] Added 4 bytes: 25 77 08 5A 
+[Second 55] Added 0 bytes: (no data)
+[Second 56] Added 2 bytes: 6F 96 
+[Second 57] Added 0 bytes: (no data)
+[Second 58] Added 4 bytes: FB A0 B2 32 
+[Second 59] Added 3 bytes: 7E 43 70 
+[Second 60] Added 2 bytes: 5A 05 
+Buffer has only 36 bytes. Skipping print.
+[Second 61] Added 4 bytes: F0 B1 57 20 
+[Second 62] Added 3 bytes: 1C 24 FA 
+[Second 63] Added 4 bytes: 49 71 77 A3 
+[Second 64] Added 2 bytes: 31 12 
+[Second 65] Added 0 bytes: (no data)
+[Second 66] Added 1 bytes: B4 
+[Second 67] Added 2 bytes: 17 66 
+[Second 68] Added 4 bytes: B2 E4 0C 23 
+[Second 69] Added 2 bytes: 66 28 
+[Second 70] Added 4 bytes: 57 D9 D9 77 
+>>> 10s reached: Printing latest 50 bytes:
+AB FF 96 AC 30 1E C5 03 2B 25 77 08 5A 6F 96 FB A0 B2 32 7E 43 70 5A 05 F0 B1 57 20 1C 24 FA 49 71 77 A3 31 12 B4 17 66 B2 E4 0C 23 66 28 57 D9 D9 77 
+>>> Deleted 50 bytes from buffer.
+[Second 71] Added 4 bytes: F5 9B A3 64 
+[Second 72] Added 0 bytes: (no data)
+[Second 73] Added 4 bytes: DB 88 18 0C 
+[Second 74] Added 4 bytes: B3 83 4F 49 
+[Second 75] Added 0 bytes: (no data)
+[Second 76] Added 5 bytes: 11 4C 9A 1D 6F 
+[Second 77] Added 0 bytes: (no data)
+[Second 78] Added 4 bytes: 97 FF DB 70 
+[Second 79] Added 4 bytes: 52 19 CE EE 
+[Second 80] Added 4 bytes: 32 D2 D0 0D 
+Buffer has only 41 bytes. Skipping print.
+[Second 81] Added 0 bytes: (no data)
+[Second 82] Added 3 bytes: 19 F5 9C 
+[Second 83] Added 2 bytes: 44 E5 
+[Second 84] Added 2 bytes: F9 F6 
+[Second 85] Added 0 bytes: (no data)
+[Second 86] Added 5 bytes: 14 F2 10 98 89 
+[Second 87] Added 3 bytes: 73 FA E7 
+[Second 88] Added 5 bytes: 13 B5 B3 CF E7 
+[Second 89] Added 4 bytes: 9F F4 E0 88 
+[Second 90] Added 3 bytes: D5 24 A9 
+>>> 10s reached: Printing latest 50 bytes:
+18 0C B3 83 4F 49 11 4C 9A 1D 6F 97 FF DB 70 52 19 CE EE 32 D2 D0 0D 19 F5 9C 44 E5 F9 F6 14 F2 10 98 89 73 FA E7 13 B5 B3 CF E7 9F F4 E0 88 D5 24 A9 
+>>> Deleted 50 bytes from buffer.
+[Second 91] Added 5 bytes: 09 DF 13 00 62 
+[Second 92] Added 2 bytes: 14 54 
+[Second 93] Added 4 bytes: AC DD C5 1F 
+[Second 94] Added 5 bytes: AD E4 EA 62 98 
+[Second 95] Added 3 bytes: 4A 1E 59 
+[Second 96] Added 2 bytes: FE E1 
+[Second 97] Added 0 bytes: (no data)
+[Second 98] Added 0 bytes: (no data)
+[Second 99] Added 2 bytes: F5 ED 
+[Second 100] Added 1 bytes: D5 
+Buffer has only 42 bytes. Skipping print.
+
+
+=== Code Execution Successful ===

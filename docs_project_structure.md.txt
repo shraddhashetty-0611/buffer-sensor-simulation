@@ -1,0 +1,20 @@
+# Project Structure
+This project contains the following files:
+
+- `main.c`: C source code for the simulation logic
+- `README.md`: Description, usage instructions, and output sample
+- `ASSUMPTIONS.md`: Assumptions made while designing the program
+- `LICENSE`: MIT license allowing open use
+- `docs/output-sample.txt`: Example output from a full 100-second simulation
+- `docs/demo-instructions.md`: Instructions to demonstrate the program
+
+Folder layout:
+sensor-buffer-simulation-c/
+├── main.c
+├── README.md
+├── ASSUMPTIONS.md
+├── LICENSE
+└── docs/
+    ├── output-sample.txt
+    ├── project-structure.md
+    └── demo-instructions.md

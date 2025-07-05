@@ -1,0 +1,24 @@
+Assumptions
+
+This document outlines key assumptions made in the implementation of the sensor buffer simulation project.
+
+1. Timing Simulation:
+   - Real-time 1-second intervals are simulated via a loop.
+   - No use of OS-level timers or `sleep()` to ensure compatibility with online compilers.
+
+2. Random Data Generation:
+   - Sensor data is randomly generated using `rand()`.
+   - Every second, the number of bytes added is between 0 and 5.
+   - Each byte is a random value between 0x00 and 0xFF.
+
+3. Buffer Management:
+   - The buffer is a fixed-size array with a maximum of 1024 bytes.
+   - Only the latest 50 bytes are printed (if available) every 10 seconds.
+   - These 50 bytes are removed after printing.
+
+4. Platform:
+   - Code is designed to run on any standard C compiler.
+   - Specifically tested on: https://www.programiz.com/c-programming/online-compiler/
+
+5. Duration:
+   - The simulation runs for 100 seconds (adjustable in code).
